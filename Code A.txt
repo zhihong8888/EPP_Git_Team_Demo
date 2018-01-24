@@ -4,7 +4,7 @@ Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
 
-1. Code Uno Prime
+1. Code A
 2. Code Duo Fibonacci
 3. Code Uno Prime
 4. Code A
